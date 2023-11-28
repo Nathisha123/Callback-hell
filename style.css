@@ -1,0 +1,17 @@
+body
+{
+    font-size:xx-large;
+    color:darkblue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ROSg4ORJSViyKLTjn3Daz6k2CCRI9WafIA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size:52%;
+    background-attachment: fixed;
+
+}
+h1
+{
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
